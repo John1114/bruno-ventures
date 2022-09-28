@@ -37,7 +37,7 @@ export default function Home() {
       <div className="box-border">
         <div className="flex flex-col">
           <Navbar />
-          <Hero tagLine={"Startups start here."} />
+          <Hero tagLine={"Startups start here..."} />
         </div>
         <div className="relative top-48">
           <Startups />
